@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+@custom-variant dark (&:where(.dark, .dark *));
+* {
+  font-style: normal;
+  font-optical-sizing: auto;
+  font-family: "Roboto Slab", serif;
+  transition-property:
+    color, background-color, border-color, box-shadow, opacity, scale;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+}
