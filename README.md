@@ -6,7 +6,7 @@
 
 ![alt](./screenshots/preview.png)
 
-> ### Libraries used for this project
+> ### Libraries required for this project
 
 | Icon                                                                          | Technology                                    | Category              |
 | ----------------------------------------------------------------------------- | --------------------------------------------- | --------------------- |
