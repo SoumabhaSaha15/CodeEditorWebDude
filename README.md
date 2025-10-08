@@ -1,6 +1,10 @@
-># Code Editor
+># _Code Editor_
 
 > ## Description:- _A code edtor built with React, Vite, and flowbite CSS and Sandpack, by Soumabha Saha_.
+
+> ### _App Preview_
+
+![alt](./screenshots/preview.png)
 
 > ### Libraries used for this project
 

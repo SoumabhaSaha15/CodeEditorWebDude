@@ -9,10 +9,10 @@ export default function App() {
   return (
     <React.Fragment>
       <Navbar fluid rounded className="bg-white shadow-sm sticky top-0 z-50">
-        <NavbarBrand href="https://portfolio-seven-mu-85.vercel.app">
+        <NavbarBrand as={'div'}>
           <img src="/logo.svg" className="mr-3 h-6 sm:h-9" alt=" Logo" />
           <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Code-Editor</span>
-          <a className="underline text-3xl px-2" href="https://github.com/soumabhasaha15"><FaGithub color="gray" /></a>
+          <a className="underline text-3xl px-2" href="https://github.com/SoumabhaSaha15/CodeEditorWebDude"><FaGithub color="gray" /></a>
           <a className="underline text-3xl px-2" href="https://www.linkedin.com/in/soumabha-saha-663816253"><FaLinkedin color="#0080ff" /></a>
         </NavbarBrand>
         <Button
